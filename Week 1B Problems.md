@@ -61,11 +61,11 @@ Because the Poisson random variable is discrete and the normal is continuous, we
 </ol>
 <ol start="6">
 <li>
-<p>Suppose customers wait in line at a bank on average 10 minutes and are first come first served and customers arrive randomly and independently.  Answer the following:</p>
+<p>Suppose customers get served by a bank teller on average in 10 minutes, are first come first served, and customers arrive randomly and independently.  Answer the following:</p>
 <p>a) What’s the probability that a customer, Chong, waits more than twice the average wait?</p>
 <p>b) What’s the probability that a customer, Sydney, waits an average amount of time or less?</p>
-<p>c) The bank manager has been receiving complaints from about 3% of their customers, one named Anthony, who say their wait times are unacceptable.  What’s the minimum wait time that appears to be generating complaints?</p>
-<p>d) Neil is a customer of a different bank that has an average wait time of 8 minutes.  Which is more likely, that Neil waits 8 minutes or less or Sydney waits 10 minutes or less?  Explain.  Show your justification.</p>
+<p>c) The bank manager has been receiving complaints from about 3% of their customers, one named Anthony, who say their service times are unacceptable.  What’s the minimum service time that appears to be generating complaints?</p>
+<p>d) Neil is a customer of a different bank that has an average  service time of 8 minutes.  Which is more likely, that Neil waits 8 minutes or less or Sydney waits 10 minutes or less?  Explain.  Show your justification.</p>
 </li>
 </ol>
 <blockquote>
