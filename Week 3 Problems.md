@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="week-3-monte-carlo-part-1">Week 3 (Monte Carlo Part 1)</h1>
+<h1 id="dos-problem-set-4-monte-carlo">DOS Problem Set 4 (Monte Carlo)</h1>
 <ol>
 <li>
 <p>Simulate rolling an 8-sided die five times and store the values in a list called sample.  Find the mean, using <em>np.mean()</em> and standard deviation, using <em>np.std()</em>.  Make sure you use the appropriate ddof value.</p>
