@@ -58,7 +58,7 @@ c) Describe the histograms of each variable in terms of symmetry and/or skew.<br
 d) Test each of the variables to see if the best fitting distribution is the exponential, normal, triangular, or laplace using the nnlf after fitting each distribution first.</p>
 </li>
 </ol>
-<p>Code snippet:</p>
+<p>Code snippet (indent where needed):</p>
 <pre><code>from scipy import stats as st
 
 dists = [st.expon, st.norm, st.laplace, st.triang]
