@@ -78,10 +78,10 @@ winners
 </code></pre>
 <p>e) Identify the two predictors for which the normal distribution is the best.<br>
 f) Fit a linear regression model to the data (use bodyfat as your response and the two variables that are normally distributed as your predictors).<br>
-f) Calculate the means and covariance matrix for the predictors.<br>
-g) Simulate 5000 additional patients using st.multivariate_normal() and store it in x_sim.<br>
-h) What the expected bodyfat for someone in the upper 25% for each of the predictors using the results from x_sim?<br>
-i) What is the expected bodyfat for someone in the bottom 33% for one predictor and upper 33% for the other using x_sim?</p>
+g) Calculate the means and covariance matrix for the predictors.<br>
+h) Simulate 5000 additional patients using st.multivariate_normal() and store it in x_sim.<br>
+i) What the expected bodyfat for someone in the upper 25% for each of the predictors using the results from x_sim?<br>
+j) What is the expected bodyfat for someone in the bottom 33% for one predictor and upper 33% for the other using x_sim?</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
