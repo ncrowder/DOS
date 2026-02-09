@@ -51,7 +51,7 @@ g) How much starting stock do I need so that I run out no more than 5% of the ti
 <p>Test to see if the <a href="https://www.lock5stat.com/datasets4e/BMI.csv">sample data</a> suggests it is reasonable to assume that there is no difference in BMI between the group that exercised in the last 30 days vs. those that did not.  Use the permutation method as suggested in #7 of Problem Set 3.  Do this by generating 500 simulated differences, plotting a histogram, calculating the 95% CI, and seeing if the sample mean is outside of these bounds.</p>
 </li>
 <li>
-<p>This exercise uses the <a href="https://www.lock5stat.com/datasets4e/BMI.csv">sample data</a> here.  We will consider bodyfat to be the response variable.<br>
+<p>This exercise uses the <a href="https://www.lock5stat.com/datasets4e/BodyFat.txt">sample data</a> here.  We will consider bodyfat to be the response variable.<br>
 a) Find the mean, median, max, min for all the variables using the df.agg method.<br>
 b) Use seaborn to create a pairplot for the data as well as a correlation matrix.  Note any strong correlations between variables.  What variable(s) seem to be most correlated with bodyfat?  Which seems to be the least?<br>
 c) Describe the histograms of each variable in terms of symmetry and/or skew.<br>
